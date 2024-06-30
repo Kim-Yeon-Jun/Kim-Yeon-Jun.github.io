@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kim-Yeon-Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Interests in DataScience(ML/DL)"
+  location         : "Gyeonggi-do, Anyang-si"
+  email            : "edisonkyj@naver.com or edisonkyj@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
