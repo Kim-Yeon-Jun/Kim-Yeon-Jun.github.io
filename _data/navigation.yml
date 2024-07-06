@@ -1,15 +1,27 @@
 # main links
 main:
   - title: "DeepLearning"
-    url : /DL/
-  - title : "Computer Vision"
-    url : /CV/
-  - title : "NLP"
-    url : /NLP/
-  - title : "MachineLearning"
-    url : /ML/
+    children:
+      - title: "Computer Vision"
+        url: /DL/CV/
+      - title: "NLP"
+        url: /DL/NLP/
+  - title: "MachineLearning"
+    url: /ML/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+# main:
+#   - title: "DeepLearning"
+#     url : /DL/
+#   - title : "Computer Vision"
+#     url : /CV/
+#   - title : "NLP"
+#     url : /NLP/
+#   - title : "MachineLearning"
+#     url : /ML/
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -18,18 +30,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-sidebar : 
-  title : "Sample"
-  nav : sidebar-sample
-
-sidebar-sample:
-  - title: "Parent Page A"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
