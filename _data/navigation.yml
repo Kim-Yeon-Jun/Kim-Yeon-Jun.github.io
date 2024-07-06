@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: "DeepLearning"
+    url : "/DL/"
+    children:
+      - title : "Computer Vision"
+        url : "/CV/"
+      - title : "NLP"
+        url : "/NLP/"
+  - title : "MachineLearning"
+    url : "/ML/"
+    
