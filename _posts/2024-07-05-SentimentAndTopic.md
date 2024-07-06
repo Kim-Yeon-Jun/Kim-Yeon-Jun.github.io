@@ -1,6 +1,13 @@
 ---
 layout: post
 title:  "감정분석과 토픽 모델링"
+date: 2024-07-05 21:00:00 +0900
+categories:
+  - Machine Learning
+tags:
+  - Text Data
+  - Sentiment Analysis
+  - Topic Modeling
 ---
 
 # Sentiment, Topic
