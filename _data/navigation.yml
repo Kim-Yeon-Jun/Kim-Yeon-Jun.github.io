@@ -3,14 +3,14 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "DeepLearning"
-    url : "/DL/"
+    url : /DL/
     children:
       - title : "Computer Vision"
-        url : "/CV/"
+        url : /CV/
       - title : "NLP"
-        url : "/NLP/
+        url : /NLP/
   - title : "MachineLearning"
-    url : "/ML/"
+    url : /ML/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
