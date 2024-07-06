@@ -2,6 +2,15 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "DeepLearning"
+    url : "/DL/"
+    children:
+      - title : "Computer Vision"
+        url : "/CV/"
+      - title : "NLP"
+        url : "/NLP/
+  - title : "MachineLearning"
+    url : "/ML/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,15 +19,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-sidebar:
-  - title: "DeepLearning"
-    url : "/DL/"
-    children:
-      - title : "Computer Vision"
-        url : "/CV/"
-      - title : "NLP"
-        url : "/NLP/"
-  - title : "MachineLearning"
-    url : "/ML/"
-    
