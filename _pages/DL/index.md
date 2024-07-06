@@ -2,5 +2,7 @@
 layout: category
 title: "Deep Learning"
 permalink: /DL/
+author_profile: true
+taxonomy: Deep Learning
 ---
-Deep Learning 학습
+Deep Learning
