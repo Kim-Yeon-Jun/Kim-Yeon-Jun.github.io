@@ -28,3 +28,11 @@ layout: archive
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
+
+<!-- TOC -->
+{% if page.toc %}
+  <nav id="toc" class="toc">
+    <h2>{{ page.toc_label | default: "목차" }}</h2>
+    {{ content | toc_only }}
+  </nav>
+{% endif %}
