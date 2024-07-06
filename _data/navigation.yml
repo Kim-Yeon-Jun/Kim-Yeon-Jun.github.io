@@ -1,27 +1,15 @@
 # main links
 main:
   - title: "DeepLearning"
-    children:
-      - title: "Computer Vision"
-        url: /DL/CV/
-      - title: "NLP"
-        url: /DL/NLP/
-  - title: "MachineLearning"
-    url: /ML/
-  - title: "Quick-Start Guide"
+    url : /DL/
+  - title : "Computer Vision"
+    url : /CV/
+  - title : "NLP"
+    url : /NLP/
+  - title : "MachineLearning"
+    url : /ML/
+  - title: "Help"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
-# main:
-#   - title: "DeepLearning"
-#     url : /DL/
-#   - title : "Computer Vision"
-#     url : /CV/
-#   - title : "NLP"
-#     url : /NLP/
-#   - title : "MachineLearning"
-#     url : /ML/
-#   - title: "Quick-Start Guide"
-#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
