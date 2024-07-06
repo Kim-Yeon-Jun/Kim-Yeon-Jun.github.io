@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Machine Learning"
-permalink: /ML/
+permalink: /categories/ML/
 category : Machine Learning
 ---
