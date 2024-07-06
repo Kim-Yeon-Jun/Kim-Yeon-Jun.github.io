@@ -12,21 +12,6 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
-    
-    <!-- 시작: 사이드바 네비게이션 추가 -->
-    <div class="sidebar">
-      <nav class="sidebar__nav">
-        {% for item in site.sidebar %}
-          <h2>{{ item.title }}</h2>
-          <ul>
-            {% for child in item.children %}
-              <li><a href="{{ child.url }}">{{ child.title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endfor %}
-      </nav>
-    </div>
-    <!-- 끝: 사이드바 네비게이션 추가 -->
 
     <div class="initial-content">
       {{ content }}
