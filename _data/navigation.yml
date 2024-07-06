@@ -6,7 +6,7 @@ main:
     url : /CV/
   - title : "NLP"
     url : /NLP/
-  - title : "MachineLearning"
+  - title : "Machine Learning"
     url : /ML/
   - title: "Help"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
