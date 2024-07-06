@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim-Yeon-Jun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/character.jpg"
   bio              : "Interests in DataScience(ML/DL)"
   location         : "Gyeonggi-do, Anyang-si"
   email            : "edisonkyj@naver.com or edisonkyj@gmail.com"
