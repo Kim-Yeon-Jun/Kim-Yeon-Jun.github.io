@@ -2,5 +2,7 @@
 layout: category
 title: "Computer Vision"
 permalink: /CV/
+author_profile: true
+taxonomy: Computer Vision
 ---
-Computer Vision 학습
+Computer Vision
