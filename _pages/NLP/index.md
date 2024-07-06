@@ -2,5 +2,7 @@
 layout: category
 title: "NLP"
 permalink: /NLP/
+author_profile: true
+taxonomy: NLP
 ---
-NLP 학습
+Natural Language Processing
