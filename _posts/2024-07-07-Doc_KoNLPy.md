@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "텍스트 분석"
-excerpt: "텍스트 데이터 분석 과정"
+title:  "문서분석과 한글 NLP"
+excerpt: "문서분석 & KoNLPy"
 date: 2024-07-07 21:34:00 +0900
 categories:
   - Machine Learning
