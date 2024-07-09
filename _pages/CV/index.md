@@ -5,4 +5,3 @@ permalink: /CV/
 author_profile: true
 taxonomy: Computer Vision
 ---
-Computer Vision
