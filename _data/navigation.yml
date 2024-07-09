@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Project"
+    url : /Project/
   - title: "DeepLearning"
     url : /DL/
   - title : "Computer Vision"
