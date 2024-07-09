@@ -5,4 +5,3 @@ permalink: /DL/
 author_profile: true
 taxonomy: Deep Learning
 ---
-Deep Learning
