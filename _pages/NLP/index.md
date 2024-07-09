@@ -5,4 +5,3 @@ permalink: /NLP/
 author_profile: true
 taxonomy: NLP
 ---
-Natural Language Processing
