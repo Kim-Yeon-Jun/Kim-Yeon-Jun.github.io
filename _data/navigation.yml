@@ -10,6 +10,8 @@ main:
     url : /NLP/
   - title : "Machine Learning"
     url : /ML/
+  - title : "Bootcamp"
+    url : /Bootcamp/
   - title: "Help"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
